@@ -1,6 +1,6 @@
 ### Olá! Eu sou João Carlos🖖🏻
 Estou atualmente estudando sobre Front-end e Back-end.
-Comecei na área da programação já faz quase 8 meses, até agora sei o básico de HTML, CSS, JavaScript e Electron. Pretendo fazer varios projetos que estão na minha cabeça.
+Comecei na área da programação com 17 anos, até agora tenho conhecimento em HTML, CSS, JavaScript, PHP, Bootstrap e atualmente estou estudando React com TypeScript. Pretendo fazer varios projetos que estão na minha cabeça.
 
 
 ![Sahh00 GitHub stats](https://github-readme-stats.vercel.app/api?username=Sahh00&show_icons=true&theme=radical)
