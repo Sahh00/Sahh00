@@ -7,13 +7,7 @@ Atualmente, trabalho na Exata Tech, atuando com análise de bancos de dados, pro
 
 ### Tecnologias que uso no meu dia
 
-<div style="display: inline_block">
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="80">
-  <img align="center" alt="SQL" src="https://img.icons8.com/?size=100&id=J6kCaRLsTgp2&format=png&color=000000" width="50">
-  <img align="center" alt="PYTHON" src="https://img.icons8.com/?size=100&id=175OE5UkXPAk&format=png&color=000000" width="100">
-  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="80">
-</div>
-<br/>
+
 <div>
   <img align="center" alt="nodeJs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sahh00&layout=pie" width="300">
 </div>
